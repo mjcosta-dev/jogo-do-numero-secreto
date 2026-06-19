@@ -1,4 +1,5 @@
 *.html linguist-detectable=true
+*.html data=false
 *.css linguist-detectable=true
 *.js linguist-detectable=true
 
